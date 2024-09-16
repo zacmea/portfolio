@@ -32,8 +32,8 @@ const projects = [
         imgSrc: proj4Thumb,
         title: "Wine Not",
         description: "A complete rebuild of the Wine-iest project, this Vue/Django app should allow users to search for wines and save them to their profile. This app was built with technologies that were new to me, and is still in development.",
-        liveLink: "https://www.google.com",
-        githubLink: "https://www.github.com",
+        liveLink: "https://wine-wine-not.netlify.app/",
+        githubLink: "https://github.com/zacmea/winenotv2",
     },
 ];
 
